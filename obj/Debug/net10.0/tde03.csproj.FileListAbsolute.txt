@@ -1,0 +1,14 @@
+/home/emanuel/Documentos/backend aula 3/tde03/bin/Debug/net10.0/tde03
+/home/emanuel/Documentos/backend aula 3/tde03/bin/Debug/net10.0/tde03.deps.json
+/home/emanuel/Documentos/backend aula 3/tde03/bin/Debug/net10.0/tde03.runtimeconfig.json
+/home/emanuel/Documentos/backend aula 3/tde03/bin/Debug/net10.0/tde03.dll
+/home/emanuel/Documentos/backend aula 3/tde03/bin/Debug/net10.0/tde03.pdb
+/home/emanuel/Documentos/backend aula 3/tde03/obj/Debug/net10.0/tde03.GeneratedMSBuildEditorConfig.editorconfig
+/home/emanuel/Documentos/backend aula 3/tde03/obj/Debug/net10.0/tde03.AssemblyInfoInputs.cache
+/home/emanuel/Documentos/backend aula 3/tde03/obj/Debug/net10.0/tde03.AssemblyInfo.cs
+/home/emanuel/Documentos/backend aula 3/tde03/obj/Debug/net10.0/tde03.csproj.CoreCompileInputs.cache
+/home/emanuel/Documentos/backend aula 3/tde03/obj/Debug/net10.0/tde03.dll
+/home/emanuel/Documentos/backend aula 3/tde03/obj/Debug/net10.0/refint/tde03.dll
+/home/emanuel/Documentos/backend aula 3/tde03/obj/Debug/net10.0/tde03.pdb
+/home/emanuel/Documentos/backend aula 3/tde03/obj/Debug/net10.0/tde03.genruntimeconfig.cache
+/home/emanuel/Documentos/backend aula 3/tde03/obj/Debug/net10.0/ref/tde03.dll
