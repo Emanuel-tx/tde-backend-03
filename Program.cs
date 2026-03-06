@@ -14,13 +14,24 @@ switch(opcao)
     case 2:
     Console.WriteLine("informe o valor que deseja depositar:");
     decimal deposito = Convert.ToDecimal(Console.ReadLine());
+    if(deposito < 0)
+            {
+                Console.WriteLine($"Não é pra depositar {deposito:F2}R$");
+                break;
+            }
     saldo += deposito;
     Console.WriteLine($"Saldo atual: {saldo:F2}");
     break;
     case 3:
     Console.WriteLine("Digite o valor que queira sacar:");
     decimal saque = decimal.Parse(Console.ReadLine());
+    if (saque > saldo)
+            {
+                Console.WriteLine("TU NAO TEM DINHEIRO BRO");
+                break;
+            }
     saldo -= saque;
+    Console.WriteLine( $"Saque de {saque:F2} feito com sucesso");
     break;
     case 4:
     Console.WriteLine("muito obrigado por utilizar nossos serviços!");

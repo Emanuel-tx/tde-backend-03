@@ -12,3 +12,4 @@
 /home/emanuel/Documentos/backend aula 3/tde03/obj/Debug/net10.0/tde03.pdb
 /home/emanuel/Documentos/backend aula 3/tde03/obj/Debug/net10.0/tde03.genruntimeconfig.cache
 /home/emanuel/Documentos/backend aula 3/tde03/obj/Debug/net10.0/ref/tde03.dll
+/home/emanuel/Documentos/backend aula 3/tde03/obj/Debug/net10.0/tde03.sourcelink.json
