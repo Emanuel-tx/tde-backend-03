@@ -16,7 +16,7 @@ switch(opcao)
     decimal deposito = Convert.ToDecimal(Console.ReadLine());
     if(deposito < 0)
             {
-                Console.WriteLine($"Não é pra depositar {deposito:F2}R$");
+                Console.WriteLine($"Não é possível depositar {deposito:F2}R$");
                 break;
             }
     saldo += deposito;
